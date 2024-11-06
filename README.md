@@ -96,7 +96,7 @@ This challenge includes two questions, each with its own Java class:
 
 - **Question2.1/**:
   - `InventoryManagement.java`: Contains methods to manage inventory, including calculating total value, finding the most expensive product, checking stock, and sorting products by price and quantity.
-  - `Product.java`: Contains a class representing a product with properties such as name, price, quantity, and category.
+  - `Product.java`: Contains a class representing a product with properties such as name, price, and quantity.
 
 - **Question2.2/**:
   - `MissingNumberFinder.java`: Contains a method to find the missing number in an array.
