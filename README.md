@@ -101,6 +101,33 @@ This challenge includes two questions, each with its own Java class:
 - **Question2.2/**:
   - `MissingNumberFinder.java`: Contains a method to find the missing number in an array.
 
+## Getting Started
+
+To run the Android application in Challenge 1, you need to have Android Studio installed on your machine. You can download Android Studio from the official website: [Android Studio Download](https://developer.android.com/studio).
+
+To run the Java classes in Challenge 2, you can use any Java IDE or text editor with Java support, such as IntelliJ IDEA, Eclipse, or Visual Studio Code.
+
+## Running the Android Application
+
+To run the Android application in Challenge 1, follow these steps:
+
+1. Open the project in Android Studio.
+2. Connect an Android device or start an emulator.
+3. Click on the "Run" button in Android Studio to build and run the application on the connected device or emulator.
+
+## Running the Java Classes
+
+To run the Java classes in Challenge 2, follow these steps:
+
+1. Open the Java files in an IDE or text editor with Java support.
+2. Run the `main` method in the respective Java class to execute the code and see the output.
+
+## Challenges
+
+### Challenge 1
+
+I have limited experience with Java testing, so the test coverage for the Java-based challenges may be minimal or not fully optimized. However, I have focused on implementing the core functionality of the challenges.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
